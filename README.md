@@ -1,4 +1,4 @@
-### Hi there 👋<h2>ɪᴀᴍ sᴀɴᴛʜᴜ ғʀᴏᴍ ᴛᴇʟᴜɢᴜ ᴄᴏᴅᴇʀs ɢʀᴏᴜᴘ</h2>
+### ʜɪ ᴛʜᴇʀᴇ 👋<h2>ɪᴀᴍ sᴀɴᴛʜᴜ ғʀᴏᴍ ᴛᴇʟᴜɢᴜ ᴄᴏᴅᴇʀs ɢʀᴏᴜᴘ</h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
@@ -16,37 +16,30 @@
 
 
 
-<h3>🛠 Tech Stack</h3>
+<h3>ᴛᴇᴄʜ</h3>
 
 
 
-- 💻 &nbsp; Python | Java | C++ | C | MySQL
+- 💻 &nbsp; ᴘʏᴛʜᴏɴ | ᴊᴀᴠᴀ | ᴄ++ | ᴄ | ᴍʏsǫʟ
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
+- 🌐 &nbsp; ʜᴛᴍʟ | ᴄss | ᴊᴀᴠᴀsᴄʀɪᴘᴛ | ʙᴏᴏᴛsᴛʀᴀᴘ | ʀᴇᴀᴄᴛᴊs
 
 <!--
 
-- 🛢 &nbsp; MySQL | MongoDB
+- 🛢 &nbsp; ᴍʏsǫʟ | ᴍᴏɴɢᴏᴅʙ
 
-- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
+- 🔧 &nbsp; ɢɪᴛ | ᴍᴀʀᴋᴅᴏᴡɴ | sᴇʟᴇɴɪᴜᴍ | ᴛɪᴅʏᴠᴇʀsᴇ
 
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign
+- 🖥 &nbsp; ɪʟʟᴜsᴛʀᴀᴛᴏʀ| ᴘʜᴏᴛᴏsʜᴏᴘ | ɪɴᴅᴇsɪɢɴ
 
 -->
 
 
 
-<h3>🛠 To Learn</h3>
-
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
-
-<hr>
-
-
 
 <br/><br/>
 
-[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivam0110&show_icons=true)](https://github.com/shivam0110)
+[![sᴀɴᴛʜᴜ ɢɪᴛʜᴜʙ sᴛᴀᴛs](https://github-readme-stats.vercel.app/api?username=santhumusic&show_icons=true)](https://github.com/santhumusic)
 
 <br/>
 
@@ -64,7 +57,7 @@
 
 
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3> 🤝🏻 ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ </h3>
 
 <br>
 
@@ -72,25 +65,13 @@
 
 <p align="center">
 
-<a href="https://shivammalpani.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/shivammalpani.netlify.app-black?style=flat-square&logo=google-chrome"></a>
-
-<a href="https://www.linkedin.com/in/shivam-malpani-47a379198/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
-
-<a href="https://www.instagram.com/i__disbalance/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram"></a>
-
-<a href="mailto:shivammalpani111@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:santhugithub@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-santhugithub@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>
 
 
 
-
-
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=santhumusic.santhumusic)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
-
-
-
-
+![ᴠɪsɪᴛᴏʀ ᴄᴏᴜɴᴛ](https://visitor-badge.laobi.icu/badge?page_id=santhumusic.santhumusic)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
 <hr>
 
