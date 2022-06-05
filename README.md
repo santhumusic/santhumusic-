@@ -1,18 +1,18 @@
-### Hi there 👋<h2> I'm Shivam</h2>
+### Hi there 👋<h2>ɪᴀᴍ sᴀɴᴛʜᴜ ғʀᴏᴍ ᴛᴇʟᴜɢᴜ ᴄᴏᴅᴇʀs ɢʀᴏᴜᴘ</h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<h3> 👨🏻•💻 About Me </h3>
+<h3>ᴀʙᴏᴜᴛ ᴍᴇ</h3>
 
 
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; ᴇxᴘʟᴏʀɪɴɢ ɴᴇᴡ ᴛᴇᴄʜɴᴏʟᴏɢɪᴇs ᴀɴᴅ ᴅᴇᴠᴇʟᴏᴘɪɴɢ sᴏғᴛᴡᴀʀᴇ sᴏʟᴜᴛɪᴏɴs ᴀɴᴅ ǫᴜɪᴄᴋ ʜᴀᴄᴋs.
 
-- 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
+- 🎓 &nbsp; ɪᴀᴍ ᴀ ᴘᴏʟɪᴛɪᴄᴀʟ sᴄɪᴇɴᴄᴇ sᴛᴜᴅᴇɴᴛ ʙᴜᴛ ɪᴀᴍ ɪɴᴛᴇʀᴇsᴛᴇᴅ ɪɴ ᴄᴏᴅɪɴɢ. 
 
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
+- 🌱 &nbsp; ʟᴇᴀʀɴɪɴɢ ᴀʙᴏᴜᴛ ᴄʟᴏᴜᴅ ᴛᴇᴄʜ, sʏsᴛᴇᴍs ᴅᴇsɪɢɴ.
 
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+- ✍️ &nbsp; ᴘᴜʀsᴜɪɴɢ ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ᴀs ʜᴏʙʙɪᴇs/sɪᴅᴇ ʜᴜsᴛʟᴇs.
 
 
 
